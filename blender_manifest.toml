@@ -1,0 +1,14 @@
+schema_version = "1.0.0"
+
+id = "wiggle_that_node"
+name = "Wiggle That Node"
+tagline = "Detach nodes by wiggling them aggressively"
+version = "1.0.0"
+blender_version_min = "4.2.0"
+type = "add-on"
+
+maintainer = "Your Name <your@email.com>"
+license = ["SPDX:GPL-3.0-or-later"]
+
+[permissions]
+# No special permissions needed
