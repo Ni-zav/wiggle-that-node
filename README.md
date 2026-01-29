@@ -15,10 +15,7 @@ Works in:
 
 ## Install
 
-1. Download/clone this repo
-2. Blender 4.2+ → Edit → Preferences → Extensions
-3. Click the folder icon, navigate to this directory
-4. Refresh & enable the extension
+1. Download the releases, drag and drop (or on the preferences > extensions > install from disk)
 
 ## Use
 
